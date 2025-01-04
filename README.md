@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**tdat3023/tdat3023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏻 I am Tien Dat (Tab)!
 
-Here are some ideas to get you started:
+I am a Mobile Developer
+I am currenty working on React Native Project.
+💬 Email: tdat3023@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Language & Skills
+1. Mobile:
+- React Native
+- Flutter
+2. Back-end:
+- Nodejs (express), C# .Net
+- Mysql, Mongodb, SQL Server (Store procedure).
+3. Tool:
+- Development Tools: Visual Studio, VS Code, Postman, Docker, SQL Profiler, ...
+- Version Control & Collaboration Tools: Git, GitHub, SVN, 
+
+Thank you very much🎆
